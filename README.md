@@ -1,3 +1,3 @@
 # git_exercise
 
-Hello World!
+Hello World! I sure hope I'm doing this right!
